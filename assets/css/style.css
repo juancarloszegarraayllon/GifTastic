@@ -1,0 +1,16 @@
+#animalsbuttons{
+    margin-left:80px;
+}
+.btn-info{
+    background-color:orange;
+    border-color:orange;
+}
+#gifs{
+    font-size: 30px;
+    margin: 20px;
+    float: initial;
+}
+#form{
+    float:right;
+    margin-right:180px; 
+}
